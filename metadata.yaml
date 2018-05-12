@@ -1,0 +1,46 @@
+_repo: The-Sword-of-Honor-volumes-1--amp--2French-Revolution_35633
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: De Leon, Solon
+    alias: Leon, Solon De
+    birthdate: 1883
+    gutenberg_agent_id: '32144'
+    url: http://www.gutenberg.org/2009/agents/32144
+  - agent_name: De Leon, Daniel
+    alias: Leon, Daniel De
+    birthdate: 1852
+    deathdate: 1914
+    gutenberg_agent_id: '34732'
+    url: http://www.gutenberg.org/2009/agents/34732
+covers:
+- cover_type: archival
+  image_path: 35633-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Marie Joseph
+    - Sue, Eugene
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: Title page says "Translated from the original French by Daniel De Leon"
+  but translator's preface signed "Solon De Leon."
+gutenberg_issued: '2011-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35633'
+  lccn: '10029412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PQ'
+title: "The Sword of Honor; or, The Foundation of the French Republic\r\nA Tale of\
+  \ The French Revolution"
+url: http://www.gutenberg.org/ebooks/35633
