@@ -29,6 +29,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: Title page says "Translated from the original French by Daniel De Leon"
   but translator's preface signed "Solon De Leon."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35633#The-Sword-of-Honor-volumes-1--amp--2French-Revolution
 gutenberg_issued: '2011-03-19'
 gutenberg_type: Text
 identifiers:
